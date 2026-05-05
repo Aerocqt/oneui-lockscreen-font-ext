@@ -5,8 +5,8 @@ Adding more fonts to OneUI Lockscreen
   •
   <a href="https://t.me/channelhehejuice">📜 Telegram Channel</a>
 
-  # How it works?
+  ### How it works?
 Installing the APK inside the ZIP and open your "More Fonts" options on Lockscreen editor 
 
-  # Fonts available now and credits 
+  ### Fonts available now and credits 
 ~ OPPO Big Clock Sans
