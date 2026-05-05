@@ -16,3 +16,6 @@ Installing the APK inside the ZIP and open your "More Fonts" options on Lockscre
 - Gravitas One [Riccardo De Franceschi]
 - CreatoDisplayRegular [Anugrah Pasau]
 - CreatoDisplayBold [Anugrah Pasau]
+
+### Special Thanks 
+- All fonts designers for their incredible products 
