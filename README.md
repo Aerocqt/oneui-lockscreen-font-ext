@@ -9,4 +9,4 @@ Adding more fonts to OneUI Lockscreen
 Installing the APK inside the ZIP and open your "More Fonts" options on Lockscreen editor 
 
   ### Fonts available now and credits 
-~ OPPO Big Clock Sans
+- OPPO Big Clock Sans
