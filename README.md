@@ -4,6 +4,8 @@ Adding more fonts to OneUI Lockscreen
   <a href="https://t.me/SecHehe">✒️ Telegram Discussions</a>
   •
   <a href="https://t.me/channelhehejuice">📜 Telegram Channel</a>
+  •
+  <a href="https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases">Download Latest Release</a>
 
 
   ### How it works?
