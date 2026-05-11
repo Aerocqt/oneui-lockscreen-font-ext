@@ -5,8 +5,10 @@ Adding more fonts to OneUI Lockscreen
   •
   <a href="https://t.me/channelhehejuice">📜 Telegram Channel</a>
 
+
   ### How it works?
 Installing the APK inside the ZIP and open your "More Fonts" options on Lockscreen editor 
+
 
   ### Fonts available now [Credits]
 - OPPO Big Clock Sans [OPPO]
@@ -20,9 +22,11 @@ Installing the APK inside the ZIP and open your "More Fonts" options on Lockscre
 - Google Pixel Inflate [Google]
 - XiaomiNeuRounded [Xiaomi]
 
+
   ### Special Thanks 
 - All fonts designers for their incredible products 
 - Fonts designers can message me though @HeheJuice on Telegram to remove your fonts in the module if you don't want (Sorry for disturb)
+
 
   ### Notice 
 - If you are going to share this to your video platforms,you MUST add the link of GitHub to ensure the credit of Maker and Fonts designers
