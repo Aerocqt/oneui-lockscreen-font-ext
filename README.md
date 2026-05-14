@@ -23,6 +23,8 @@ Installing the APK inside the ZIP and open your "More Fonts" options on Lockscre
 - BadeenDisplay-Regular [Hani Alasadi]
 - Google Pixel Inflate [Google]
 - XiaomiNeuRounded [Xiaomi]
+- NothingOS NType[Nothing]
+- NothingOS NDot [Nothing]
 
 
  ### Special Thanks 
