@@ -1,5 +1,5 @@
-# OneUI-Lockscreen-Font-EXT
-Adding more fonts to OneUI Lockscreen
+# 🗺️ Project Overview
+OneUI-Lockscreen-Font-EXT is a project that adds more fonts to OneUI Lockscreen
 <p align="left">
   <a href="https://t.me/SecHehe">✒️ Telegram Discussions</a>
   •
@@ -8,11 +8,11 @@ Adding more fonts to OneUI Lockscreen
   <a href="https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases">📎 Download Latest Release</a>
 
 
-  ### How it works?
+  ### 🤔 How it works?
 Installing the APK inside the ZIP and open your "More Fonts" options on Lockscreen editor 
 
 
-  ### Fonts available now [Credits]
+  ### ℹ️ Fonts available now [Credits]
 - OPPO Big Clock Sans [OPPO]
 - HarmonyOSSans Super Bold [Huawei]
 - Bodoni Moda [Owen Earl]
@@ -27,12 +27,12 @@ Installing the APK inside the ZIP and open your "More Fonts" options on Lockscre
 - NothingOS NDot [Nothing]
 
 
- ### Special Thanks 
+ ### ❤️ Special Thanks 
 - All fonts designers for their incredible products 
 - Fonts designers can message me though @HeheJuice on Telegram to remove your fonts in the module if you don't want (Sorry for disturb)
 
 
- ### Notice 
+ ### ⚠️ Notice 
 - If you are going to share this to your video platforms,you MUST add the link of GitHub to ensure the credit of Maker and Fonts designers
 - Project WILL turn private or deleted if I found such situation 
 - HeheJuice reserves the right of final interpretation
