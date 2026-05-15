@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img loading="lazy" src="HeheJuice/banner.png"/>
+</h1>
+
 # 🗺️ Project Overview
 OneUI-Lockscreen-Font-EXT is a project that adds more fonts to OneUI Lockscreen
 <p align="left">
