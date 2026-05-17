@@ -44,3 +44,6 @@ Installing the APK inside the ZIP and open your "More Fonts" options on Lockscre
 - Project WILL turn private or deleted if I found such situation 
 - HeheJuice reserves the right of final interpretation
 - Fonts Creators reserves the right of remove fonts freely
+- Contact me with following if you want to remove the font (For Font Designers)
+   - Email : HeheJuiceBomb@gmail.com
+
