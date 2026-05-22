@@ -32,6 +32,9 @@ Installing the APK inside the ZIP and open your "More Fonts" options on Lockscre
 - XiaomiNeuRounded [Xiaomi]
 - NothingOS NType[Nothing]
 - NothingOS NDot [Nothing]
+- CookieRunBold [Devsisters]
+- MotoMilkyStackedRegular [Motorola]
+- RivieraRegular [Johann Darcel]
 
 
  ### ❤️ Special Thanks 
