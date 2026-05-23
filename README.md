@@ -40,7 +40,6 @@ Installing the APK inside the ZIP and open your "More Fonts" options on Lockscre
 
  ### ❤️ Special Thanks 
 - All fonts designers for their incredible products 
-- Fonts designers can message me though @HeheJuice on Telegram to remove your fonts in the module if you don't want (Sorry for disturb)
 
 
  ### ⚠️ Notice 
