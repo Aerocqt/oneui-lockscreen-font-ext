@@ -17,7 +17,9 @@ OneUI 6 + is Needed
 Installing the APK inside the ZIP and open your "More Fonts" options on Lockscreen editor 
 
 
-<a href="https://t.me/channelhehejuice/573">Facing Problems ? Press Here❗</a>
+<p align="left">
+  <a href='https://t.me/channelhehejuice/573'><img alt='Help Notes' height='35' src='./HeheJuice/HelpNotes.png'/></a>
+</p>
 
 
   ### ℹ️ Fonts available now [Credits]
