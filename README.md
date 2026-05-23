@@ -3,7 +3,8 @@
 </h1>
 
 # 🗺️ Project Overview
-OneUI-Lockscreen-Font-EXT is a project that adds more fonts to OneUI Lockscreen
+OneUI-Lockscreen-Font-EXT is a project that adds more fonts to OneUI Lockscreen 
+OneUI 6 + is Needed 
 <p align="left">
   <a href='https://t.me/channelhehejuice'><img alt='Telegram Channel' height='35' src='./HeheJuice/Channel.png'/></a>
     <a href='https://t.me/SecHehe'><img alt='Telegram Discussion' height='35' src='./HeheJuice/Discussion.png'/></a>
