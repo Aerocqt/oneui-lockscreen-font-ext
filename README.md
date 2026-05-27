@@ -45,7 +45,7 @@ Installing the APK inside the ZIP and open your "More Fonts" options on Lockscre
 
 
  ### ⚠️ Notice 
-- If you are going to share this to your video platforms,you MUST add the link of GitHub to ensure the credit of Maker and Fonts designers
+- ⚠️⚠️⚠️ If you are going to share this to your video or other platforms,you MUST add the link of GitHub to ensure the credit of Maker and Fonts designers
 - Project WILL turn private or deleted if I found such situation 
 - HeheJuice reserves the right of final interpretation
 - Fonts Creators reserves the right of remove fonts freely
