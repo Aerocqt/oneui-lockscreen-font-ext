@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img loading="lazy" src="HeheJuice/Banner.png"/>
+  <img loading="lazy" src="HeheJuice/BannerCN.png"/>
 </h1>
 
 # 🗺️ Project Overview
@@ -7,9 +7,9 @@ OneUI鎖屏字體EXT（OneUI-Lockscreen-Font-EXT）是一個為 OneUI 鎖定畫�
 
 支援版本 OneUI 6 + 
 <p align="left">
-  <a href='https://t.me/channelhehejuice'><img alt='Telegram 頻道' height='35' src='./HeheJuice/ChannelV2.png'/></a>
-    <a href='https://t.me/SecHehe'><img alt='Telegram 討論群' height='35' src='./HeheJuice/DiscussionV2.png'/></a>
-    <a href='https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases'><img alt='最新發布' height='35' src='./HeheJuice/DownloadV2.png'/></a>
+  <a href='https://t.me/channelhehejuice'><img alt='Telegram 頻道' height='35' src='./HeheJuice/ChannelCN.png'/></a>
+    <a href='https://t.me/SecHehe'><img alt='Telegram 討論群' height='35' src='./HeheJuice/DiscussionCN.png'/></a>
+    <a href='https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases'><img alt='最新發布' height='35' src='./HeheJuice/DownloadCN.png'/></a>
 </p>
 
 
@@ -18,7 +18,7 @@ OneUI鎖屏字體EXT（OneUI-Lockscreen-Font-EXT）是一個為 OneUI 鎖定畫�
 
 
 <p align="left">
-  <a href='https://t.me/channelhehejuice/573'><img alt='幫助說明' height='35' src='./HeheJuice/HelpNotes.png'/></a>
+  <a href='https://t.me/channelhehejuice/573'><img alt='幫助說明' height='35' src='./HeheJuice/HelpNotesCN.png'/></a>
 </p>
 
 
