@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img loading="lazy" src="HeheJuice/BannerCN.png"/>
+  <img loading="lazy" src="BannerCN.png"/>
 </h1>
 
 # 🗺️ Project Overview
