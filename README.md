@@ -29,7 +29,7 @@ Installing the APK inside the ZIP and open your "More Fonts" options on Lockscre
 So it is considered as a Android style from me
 
 
-  ### ℹ️ Fonts available now [Credits]
+ ### ℹ️ Fonts available now [Credits]
 - OPPO Big Clock Sans [OPPO]
 - HarmonyOSSans Super Bold [Huawei]
 - Bodoni Moda [Owen Earl]
