@@ -23,6 +23,10 @@ Installing the APK inside the ZIP and open your "More Fonts" options on Lockscre
   <a href='https://t.me/channelhehejuice/573'><img alt='Help Notes' height='35' src='./HeheJuice/HelpNotes.png'/></a>
 </p>
 
+  ### 😵 Statement
+I normally WON'T make any stuff related to iOS Theme
+Reason of OPPO Big Clock Sans is available because iOS Release the "Long Clock Style" Before Android (HyperOS)
+So it is considered as a Android style from me
 
   ### ℹ️ Fonts available now [Credits]
 - OPPO Big Clock Sans [OPPO]
