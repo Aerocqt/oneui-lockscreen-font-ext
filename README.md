@@ -1,4 +1,4 @@
-Language : English • [中文](README_CN.md)
+Language : English • [中文](README_CN.md) • [Tiếng Việt](README_VI.md)
 
 <h1 align="center">
   <img loading="lazy" src="HeheJuice/Banner.png"/>
