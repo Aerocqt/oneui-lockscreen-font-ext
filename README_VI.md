@@ -1,33 +1,34 @@
+Language : [English](README.md) • [中文](README_CN.md) • Tiếng Việt
+
 <h1 align="center">
   <img loading="lazy" src="HeheJuice/Banner.png"/>
 </h1>
 
 # 🗺️ Tổng quan dự án
-OneUI-Lockscreen-Font-EXT là một dự án giúp bổ sung thêm nhiều phông chữ (font) cho Màn hình khóa OneUI.
+OneUI-Lockscreen-Font-EXT là một dự án giúp bạn thêm nhiều font chữ mới vào Màn hình khóa của OneUI.
 
-Yêu cầu phiên bản OneUI 6 trở lên 
+**Yêu cầu:** Thiết bị chạy OneUI 6.0 trở lên.
+
 <p align="left">
   <a href='https://t.me/channelhehejuice'><img alt='Kênh Telegram' height='35' src='./HeheJuice/ChannelV2.png'/></a>
     <a href='https://t.me/SecHehe'><img alt='Nhóm thảo luận Telegram' height='35' src='./HeheJuice/DiscussionV2.png'/></a>
     <a href='https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases'><img alt='Phiên bản mới nhất' height='35' src='./HeheJuice/DownloadV2.png'/></a>
 </p>
 
-
-  ### 🤔 Cách thức hoạt động?
-Cài đặt tệp APK bên trong tệp ZIP và mở tùy chọn "More Fonts" (Thêm phông chữ) trên trình chỉnh sửa Màn hình khóa của bạn.
-
+### 🤔 Cách thức hoạt động?
+Chỉ cần cài đặt file APK có trong file ZIP, sau đó mở phần chỉnh sửa Màn hình khóa của bạn lên và chọn mục "More Fonts" (Thêm phông chữ).
 
 <p align="left">
   <a href='https://t.me/channelhehejuice/573'><img alt='Ghi chú hướng dẫn' height='35' src='./HeheJuice/HelpNotes.png'/></a>
 </p>
 
-  ### 😵 Tuyên bố chính thức
-- Tôi sẽ KHÔNG làm bất kỳ thứ gì liên quan đến Chủ đề (Theme) iOS.
-- Lý do phông chữ "OPPO Big Clock Sans" có mặt là vì iOS 26 [Ngày 15 tháng 9 năm 2025] ra mắt kiểu dáng "Đồng hồ dài" (Long Clock Style) SAU Android (HyperOS) [Ngày 29 tháng 10 năm 2024]. Vì vậy, đối với tôi, nó được coi là một phong cách mang tính Android.
-- [Thông tin liên quan](HeheJuice/Result.png)
-- Tôi không phải là một người ghét (Antifan) iOS và tôi cũng đang sở hữu một chiếc iPad chạy iOS 26. Lý do tôi không làm các nội dung liên quan đến iOS Theme là để giữ cho Android có được phong cách riêng của chính nó.
+### 😵 Tuyên bố chính thức
+- Mình sẽ **KHÔNG** làm bất cứ theme hay tính năng nào sao chép phong cách của iOS.
+- Lý do mình thêm font "OPPO Big Clock Sans" vào là vì iOS 26 (ra mắt 15/09/2025) có kiểu dáng "Đồng hồ dài" (Long Clock Style) ra mắt SAU Android (cụ thể là HyperOS, ra mắt 29/10/2024). Vì vậy, với mình thì đây vẫn được xem là phong cách đặc trưng của Android.
+- [Thông tin tham khảo thêm](HeheJuice/Result.png)
+- Mình không hề ghét (anti) iOS, bản thân mình cũng đang dùng một chiếc iPad chạy iOS 26. Mình không làm các nội dung liên quan đến theme iOS đơn giản vì muốn Android giữ được bản sắc và phong cách riêng của nó.
 
- ### ℹ️ Các phông chữ hiện có [Nguồn/Ghi công]
+### ℹ️ Danh sách font chữ hỗ trợ [Nguồn/Tác giả]
 - OPPO Big Clock Sans [OPPO]
 - HarmonyOSSans Super Bold [Huawei]
 - Bodoni Moda [Owen Earl]
@@ -46,14 +47,13 @@ Cài đặt tệp APK bên trong tệp ZIP và mở tùy chọn "More Fonts" (Th
 - Monoton [vernon adams]
 - MiSerifF [Xiaomi]
 
+### ❤️ Lời cảm ơn đặc biệt 
+- Xin gửi lời cảm ơn chân thành đến tất cả các nhà thiết kế vì những bộ font tuyệt vời này.
 
- ### ❤️ Lời cảm ơn đặc biệt 
-- Xin gửi lời cảm ơn đến tất cả các nhà thiết kế phông chữ vì những sản phẩm tuyệt vời của họ.
-
-
- ### ⚠️ Lưu ý quan trọng
-- Nếu bạn định chia sẻ dự án này vào video của mình hoặc lên các nền tảng khác, bạn CÓ THỂ / Rất mong rằng (Xin cảm ơn) bạn sẽ đính kèm liên kết đến trang GitHub này để đảm bảo quyền ghi công cho Người tạo (Maker) và các Nhà thiết kế phông chữ.
-- HeheJuice bảo lưu quyền giải thích cuối cùng.
-- Các tác giả/nhà thiết kế phông chữ có toàn quyền yêu cầu gỡ bỏ phông chữ của họ bất cứ lúc nào.
-- Hãy liên hệ với tôi qua thông tin sau nếu bạn muốn gỡ bỏ phông chữ (Dành riêng cho các Nhà thiết kế phông chữ):
-   - Email: HeheJuiceBomb@gmail.com [Chỉ phản hồi email từ các Tác giả phông chữ. Những email khác nhằm mục đích xin tệp tin đồng nghĩa với việc bạn chưa đọc kỹ trang web này và bạn sẽ bị NGÓ LƠ]
+### ⚠️ Lưu ý quan trọng
+- Nếu bạn mang dự án này đi chia sẻ trong video hay trên các nền tảng khác, **RẤT MONG** bạn sẽ đính kèm link trang GitHub này để tôn trọng công sức của mình (người tạo ra dự án) cũng như các nhà thiết kế font chữ. Xin cảm ơn!
+- HeheJuice giữ quyền quyết định cuối cùng trong mọi trường hợp.
+- Các tác giả/nhà thiết kế font chữ có toàn quyền yêu cầu gỡ bỏ font của họ khỏi dự án bất cứ lúc nào.
+- Nếu bạn là tác giả font chữ và muốn gỡ bỏ sản phẩm của mình, vui lòng liên hệ với mình qua:
+   - **Email:** HeheJuiceBomb@gmail.com 
+   *(Lưu ý: Mình **chỉ phản hồi** email từ các tác giả font chữ. Các email khác với mục đích xin file chứng tỏ bạn chưa đọc kỹ trang này, và mình xin phép được **BỎ QUA**).*
