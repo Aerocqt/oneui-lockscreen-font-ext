@@ -1,5 +1,3 @@
-Language/Ngôn ngữ : [English](README.md) • [中文](README_CN.md) • **Tiếng Việt**
-
 <h1 align="center">
   <img loading="lazy" src="HeheJuice/Banner.png"/>
 </h1>
