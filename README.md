@@ -46,6 +46,8 @@ So it is considered as a Android style from me
 - CookieRunBold [Devsisters]
 - MotoMilkyStackedRegular [Motorola]
 - RivieraRegular [Johann Darcel]
+- Monoton  [vernon adams]
+- MiSerifF [Xiaomi]
 
 
  ### ❤️ Special Thanks 
