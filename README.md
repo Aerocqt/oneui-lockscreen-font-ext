@@ -48,6 +48,7 @@ So it is considered as a Android style from me
 - RivieraRegular [Johann Darcel]
 - Monoton  [vernon adams]
 - MiSerifF [Xiaomi]
+- ChamberiSuperDisplayBold [Iñigo Jerez (& Francisco Torres)]
 
 
  ### ❤️ Special Thanks 
