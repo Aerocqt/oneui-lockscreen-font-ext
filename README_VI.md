@@ -47,6 +47,7 @@ Chỉ cần cài đặt file APK có trong file ZIP, sau đó mở phần chỉn
 - RivieraRegular [Johann Darcel]
 - Monoton [vernon adams]
 - MiSerifF [Xiaomi]
+- ChamberiSuperDisplayBold [Iñigo Jerez (& Francisco Torres)]
 
 ### ❤️ Lời cảm ơn đặc biệt 
 - Xin gửi lời cảm ơn chân thành đến tất cả các nhà thiết kế vì những bộ font tuyệt vời này.
