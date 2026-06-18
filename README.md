@@ -40,25 +40,29 @@ So it is considered as a Android style from me
 - [Relevant information](HeheJuice/Result.png)
 - I am not a Hater of iOS and I have iPad with iOS 26,reason of not making iOS Theme related is to keep Android it's own style.
 
- ### ℹ️ Fonts available now [Credits]
-- OPPO Big Clock Sans [OPPO]
-- HarmonyOSSans Super Bold [Huawei]
-- Bodoni Moda [Owen Earl]
-- DM Serif Display [Colophon Foundry]
-- Gravitas One [Riccardo De Franceschi]
-- CreatoDisplayRegular [Anugrah Pasau]
-- CreatoDisplayBold [Anugrah Pasau]
-- BadeenDisplay-Regular [Hani Alasadi]
-- Google Pixel Inflate [Google]
-- XiaomiNeuRounded [Xiaomi]
-- NothingOS NType[Nothing]
-- NothingOS NDot [Nothing]
-- CookieRunBold [Devsisters]
-- MotoMilkyStackedRegular [Motorola]
-- RivieraRegular [Johann Darcel]
-- Monoton  [vernon adams]
-- MiSerifF [Xiaomi]
-- ChamberiSuperDisplayBold [Iñigo Jerez (& Francisco Torres)]
+### ℹ️ Available Fonts & Credits
+
+| Font Name | Credit |
+| :--- | :--- |
+| **OPPO Big Clock Sans** | OPPO |
+| **HarmonyOS Sans Super Bold** | Huawei |
+| **Bodoni Moda** | Owen Earl |
+| **DM Serif Display** | Colophon Foundry |
+| **Gravitas One** | Riccardo De Franceschi |
+| **Creato Display Regular** | Anugrah Pasau |
+| **Creato Display Bold** | Anugrah Pasau |
+| **Badeen Display Regular** | Hani Alasadi |
+| **Google Pixel Inflate** | Google |
+| **Xiaomi Neu Rounded** | Xiaomi |
+| **NothingOS NType** | Nothing |
+| **NothingOS NDot** | Nothing |
+| **CookieRun Bold** | Devsisters |
+| **Moto Milky Stacked Regular** | Motorola |
+| **Riviera Regular** | Johann Darcel |
+| **Monoton** | Vernon Adams |
+| **Mi Serif** | Xiaomi |
+| **Chamberi Super Display Bold** | Iñigo Jerez & Francisco Torres |
+
 
 
  ### ❤️ Special Thanks 
