@@ -40,24 +40,28 @@ Chỉ cần cài đặt file APK có trong file ZIP, sau đó mở phần chỉn
 - Mình không hề ghét (anti) iOS, bản thân mình cũng đang dùng một chiếc iPad chạy iOS 26. Mình không làm các nội dung liên quan đến theme iOS đơn giản vì muốn Android giữ được bản sắc và phong cách riêng của nó.
 
 ### ℹ️ Danh sách font chữ hỗ trợ [Nguồn/Tác giả]
-- OPPO Big Clock Sans [OPPO]
-- HarmonyOSSans Super Bold [Huawei]
-- Bodoni Moda [Owen Earl]
-- DM Serif Display [Colophon Foundry]
-- Gravitas One [Riccardo De Franceschi]
-- CreatoDisplayRegular [Anugrah Pasau]
-- CreatoDisplayBold [Anugrah Pasau]
-- BadeenDisplay-Regular [Hani Alasadi]
-- Google Pixel Inflate [Google]
-- XiaomiNeuRounded [Xiaomi]
-- NothingOS NType [Nothing]
-- NothingOS NDot [Nothing]
-- CookieRunBold [Devsisters]
-- MotoMilkyStackedRegular [Motorola]
-- RivieraRegular [Johann Darcel]
-- Monoton [vernon adams]
-- MiSerifF [Xiaomi]
-- ChamberiSuperDisplayBold [Iñigo Jerez (& Francisco Torres)]
+
+| Tên Font Chữ | Nguồn / Tác giả |
+| :--- | :--- |
+| **OPPO Big Clock Sans** | OPPO |
+| **HarmonyOSSans Super Bold** | Huawei |
+| **Bodoni Moda** | Owen Earl |
+| **DM Serif Display** | Colophon Foundry |
+| **Gravitas One** | Riccardo De Franceschi |
+| **CreatoDisplayRegular** | Anugrah Pasau |
+| **CreatoDisplayBold** | Anugrah Pasau |
+| **BadeenDisplay-Regular** | Hani Alasadi |
+| **Google Pixel Inflate** | Google |
+| **XiaomiNeuRounded** | Xiaomi |
+| **NothingOS NType** | Nothing |
+| **NothingOS NDot** | Nothing |
+| **CookieRunBold** | Devsisters |
+| **MotoMilkyStackedRegular** | Motorola |
+| **RivieraRegular** | Johann Darcel |
+| **Monoton** | vernon adams |
+| **MiSerifF** | Xiaomi |
+| **ChamberiSuperDisplayBold** | Iñigo Jerez & Francisco Torres |
+
 
 ### ❤️ Lời cảm ơn đặc biệt 
 - Xin gửi lời cảm ơn chân thành đến tất cả các nhà thiết kế vì những bộ font tuyệt vời này.
