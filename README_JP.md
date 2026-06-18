@@ -12,7 +12,7 @@
 
 
 <h1 align="center">
-  <img loading="lazy" src="HeheJuice/BannerJP.png"/>
+  <img loading="lazy" src="HeheJuice/Banner.png"/>
 </h1>
 
 # 🗺️ プロジェクト概要 (Project Overview)
