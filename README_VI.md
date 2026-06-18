@@ -1,4 +1,14 @@
-Language : [English](README.md) • [中文](README_CN.md) • Tiếng Việt
+<div align="left">
+  <table>
+    <tr>
+      <td><b>Language :</b></td>
+      <td><a href="README.md">English</a></td>
+      <td><a href="README_CN.md">中文</a></td>
+      <td><b>Tiếng Việt</b></td>
+    </tr>
+  </table>
+</div>
+
 
 <h1 align="center">
   <img loading="lazy" src="HeheJuice/Banner.png"/>
