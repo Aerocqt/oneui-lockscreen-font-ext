@@ -1,7 +1,7 @@
 <div align="left">
   <table>
     <tr>
-      <td><b>Language :</b></td>
+      <td><b>Language:</b></td>
       <td><a href="README.md">English</a></td>
       <td><a href="README_CN.md">中文</a></td>
       <td><a href="README_VI.md">Tiếng Việt</a></td>
