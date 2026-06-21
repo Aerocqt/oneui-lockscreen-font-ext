@@ -34,7 +34,7 @@ Installing the APK inside the ZIP and open your "More Fonts" options on Lockscre
 </p>
 
   ### 😵 Statement
-> [!WARNING]
+> [!NOTE]
 > * I WON'T make any stuff related to iOS Theme
 > * Reason of "OPPO Big Clock Sans" is available is because iOS 26 [September 15, 2025] Release the "Long Clock Style" AFTER Android (HyperOS)[October 29, 2024]
 So it is considered as a Android style from me
@@ -71,6 +71,7 @@ So it is considered as a Android style from me
 
 
  ### ⚠️ Notice 
+> [!IMPORTANT]
 -  If you are going to share this to your video or other platforms,you CAN / Hopefully (Thanks) add the link of GitHub to ensure the credit of Maker and Fonts designers
 - HeheJuice reserves the right of final interpretation
 - Fonts Creators reserves the right of remove fonts freely
