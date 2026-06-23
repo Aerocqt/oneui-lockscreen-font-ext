@@ -77,5 +77,6 @@ So it is considered as a Android style from me
 > * Fonts Creators reserves the right of remove fonts freely
 > * Contact me with following if you want to remove the font (For Font Designers)
 > *    - Email : HeheJuiceBomb@gmail.com ［Only Fonts Creator will be replied,other asking for files means you haven't read this website completely and you will be IGNORED]
+> * Message Me on Telegram without permission will result in a BAN in Release Channel
 
 
